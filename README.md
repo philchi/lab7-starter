@@ -1,3 +1,4 @@
 # Lab 7 - Starter
 
-Philip Chi
+Philip Chi  
+https://philchi.github.io/lab7-starter/
